@@ -16,7 +16,9 @@ int main()
     return 0;
 }
 
-int mess around
+# TO add another function
+int romanToInt(string s)
+
 {
     int rInt = 0;
     const int nRL = 7;  // Number of Roman Letters
